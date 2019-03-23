@@ -1,9 +1,9 @@
+tags:
+  - variables
+  - arrays
+  - tictactoe
 languages:
   - ruby
-tags:
-  - methods
-  - arguments
-  - variables
-  - default arguments
-resources: 1
+resources: 0
+
 
